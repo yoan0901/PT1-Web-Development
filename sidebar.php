@@ -1,6 +1,6 @@
 <div id="mySidebar" class="col-auto bg-dark text-white offcanvas-lg offcanvas-start">
         <div class="p-4">
-          <a href="#" class="navbar-brand">
+          <a href="home.php" class="navbar-brand">
             <div class="row">
               <h5 class=""> YS Leather Desk Pads</h5>
             </div>
@@ -10,7 +10,7 @@
 
           <ul class="mynav nav nav-pills flex-column">
             <li class="nav-item mb-3 mt-2">
-              <a href="" class="text-decoration-none text-white">
+              <a href="home.php" class="text-decoration-none text-white">
                 <i class="bi bi-house-fill me-2"></i>
                 Home
               </a>
