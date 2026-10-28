@@ -11,7 +11,7 @@ ob_start();
 
         <p class="text-muted mt-3">
             Your one-stop system for managing leather desk pad products,
-            customers, staff and orders.
+            customers, staffs and orders.
         </p>
 
     </div>
